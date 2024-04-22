@@ -26,7 +26,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/PhamQuangNhut/DaiVietGPT">
-    <img src="images/logo.jpg" alt="Logo" style="border-radius: 10px;">
+    <img src="image/logo.jpg" alt="Logo" style="border-radius: 10px;">
   </a>
 
   <h3 align="center">DaiVietGPT</h3>
