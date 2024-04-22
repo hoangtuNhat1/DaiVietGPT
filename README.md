@@ -80,6 +80,8 @@
 
 Ai trong chúng ta cũng đã từng thích thú hào hứng với những câu chuyện do ông bà, cha mẹ kể lại về những trải nghiệm thời chiến. Dường như đây là cách tốt nhất để một người trẻ cảm nhận rõ về sự hào hùng của nhân dân ta trong các câu chuyện lịch sử. Từ ý tưởng đó nhóm 1954 đã phát triển ứng dụng Web sử dụng mô hình ngôn ngữ lớn LLM để nhập vai vào các vĩ nhân anh hùng lịch sử Việt Nam và kể lại các câu chuyện cho người dùng. Từ đó ta có thể cảm thấy yêu thích lịch sử, sự hào hùng của văn hóa dân tộc và yêu nước hơn. Đồng thời dự án cũng tăng tinh thần học hỏi môn sử, tạo ra một phương pháp học mới cho môn học này.
 
+<p align="center"><img src="image/gif.gif" alt="Logo" width="70%"></p>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -160,23 +162,6 @@ To deploy the software, you need to have the following installed:
     npm run
     ```
   For more details, please refer to the [Software Documentation](docs/Software.md).
-
-
-### Example
-Here is an example of the system in action. The system will track the user's pose and provide feedback should there be any errors.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-
-### Demo
-We provided a demo video for the software. Please refer to the [Demo Video](https://drive.google.com/file/d/1AccfH5VvhW4y9R9cVQIFBwY4SrirvpW0/view?usp=drive_link).
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-## License
-Distributed under the **BSD 3-Clause License** License. See [LICENSE](LICENSE) for more information.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
